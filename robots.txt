@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://KomalPandya.github.io/sitemap.xml
+Sitemap: https://KSPandya.github.io/sitemap.xml
