@@ -27,12 +27,21 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-PhD Researcher in Computer Science | Research Specialist in Quantum Optimization & Online Algorithms.
+I am a theoretical computer scientist driven by a deep curiosity for mathematical elegance and computational efficiency. I completed my B.Tech in Computer Engineering at **Government Engineering College, Gandhinagar**, before moving on to earn my PhD from the **Indian Institute of Technology Patna (IIT Patna)**.
 
-Demonstrated expertise in QAOA benchmarking, QUBO modeling, hypergraph matching, and multi-objective optimization. 
+### 🎲 Math & Randomized Algorithms
 
-I am actively seeking **Postdoctoral Fellowships** and **Startup / Industry R&D** positions in quantum computing and algorithmic optimization.
+At heart, I enjoy unpacking abstract mathematical structures and translating them into practical algorithmic power. During my PhD, I explored mathematical frameworks ranging from **prime number theory** and **Random Matrix Theory** to **random hashing mechanisms**, utilizing them to design high-performance **randomized algorithms** for complex matching and optimization problems.
 
+### ⚛️ Quantum Optimization & Space Systems
+
+Optimization is everywhere, but I am particularly fascinated by the counterintuitive power of **quantum mechanics** and **quantum optimization**. Lately, I have developed a strong knack for **space-based optimization problems**—exploring how algorithmic design and quantum concepts can solve hard constraints in orbital dynamics, deep-space communication, and space-tech systems.
+
+### 🚀 Looking Ahead
+
+I am actively looking for **Postdoctoral Fellowships** and **Startup / Industry R&D** opportunities where I can apply randomized algorithms, quantum optimization, and mathematical modeling to ambitious, frontier problems. 
+
+Whether you are working in quantum computing, space-tech, or deep-tech optimization, feel free to drop an email or connect!
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
