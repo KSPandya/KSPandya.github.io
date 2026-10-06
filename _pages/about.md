@@ -26,22 +26,32 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+### A Little About Me
 
-I am a theoretical computer scientist driven by a deep curiosity for mathematical elegance and computational efficiency. I completed my B.Tech in Computer Engineering at **Government Engineering College, Gandhinagar**, before moving on to earn my PhD from the **Indian Institute of Technology Patna (IIT Patna)**.
+I work with **algorithms, mathematics, and quantum computing**, and I have a tendency to ask questions that start with,
 
-### 🎲 Math & Randomized Algorithms
+> *“Okay, but what happens if we push this a little further?”*
 
-At heart, I enjoy unpacking abstract mathematical structures and translating them into practical algorithmic power. During my PhD, I explored mathematical frameworks ranging from **prime number theory** and **Random Matrix Theory** to **random hashing mechanisms**, utilizing them to design high-performance **randomized algorithms** for complex matching and optimization problems.
+I completed my B.Tech. in Computer Engineering at **Government Engineering College, Gandhinagar**, and my Ph.D. at **IIT Patna**. My work sits somewhere between **algorithms, mathematics, randomness, and quantum computing**, with a particular interest in problems where a little mathematical cleverness can go a surprisingly long way.
 
-### ⚛️ Quantum Optimization & Space Systems
+### 🎲 Algorithms, Randomness & a Lot of Math
 
-Optimization is everywhere, but I am particularly fascinated by the counterintuitive power of **quantum mechanics** and **quantum optimization**. Lately, I have developed a strong knack for **space-based optimization problems**—exploring how algorithmic design and quantum concepts can solve hard constraints in orbital dynamics, deep-space communication, and space-tech systems.
+During my Ph.D., I worked on **matching and optimization**, exploring how randomness, mathematical structure, and algorithmic ideas can be combined to tackle difficult computational problems. Along the way, I got to work with some wonderfully eclectic mathematics-from **Random Matrix Theory and randomized hashing to number theory, probabilistic analysis, primal-dual methods**, and, of course, plenty of proofs.
+
+What I enjoy most is taking an abstract mathematical idea, pulling it apart, understanding *why* it works, and then seeing whether it can be turned into something useful.
+
+### 🌌 Quantum, Space & Everything In Between
+
+I've always been fascinated by **space and the problems it presents**. More recently, I've been bringing that curiosity together with the theoretical foundations I've built in algorithms and quantum computing.
+
+I'm particularly interested in exploring how **quantum technologies, optimization, randomized methods, and mathematical modeling** can contribute to challenging problems in space and deep-tech. There is something especially exciting about working at the boundary between what is mathematically possible and what can eventually be made useful.
 
 ### 🚀 Looking Ahead
 
-I am actively looking for **Postdoctoral Fellowships** and **Startup / Industry R&D** opportunities where I can apply randomized algorithms, quantum optimization, and mathematical modeling to ambitious, frontier problems. 
+I am currently looking for **Postdoctoral Fellowships** and **Startup / Industry R&D** opportunities where I can work on ambitious problems at the intersection of **algorithms, quantum computing, optimization, and space technology**.
 
-Whether you are working in quantum computing, space-tech, or deep-tech optimization, feel free to drop an email or connect!
+If you are working in **quantum computing, space-tech, algorithms, or deep-tech optimization**, feel free to drop me an email or connect. I'm always happy to talk about a good problem.
+
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
