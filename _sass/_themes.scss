@@ -8,3 +8,14 @@
   --global-theme-color: #60A5FA;   /* Soft electric blue */
   --global-hover-color: #93C5FD;
 }
+/* Prevent content from hiding behind fixed header and footer */
+body {
+  padding-top: 90px !important;    /* Adjusts top clearance for the navbar */
+  padding-bottom: 80px !important; /* Adjusts bottom clearance for the footer */
+}
+
+/* Ensure main container wraps neatly within viewport bounds */
+.container {
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
