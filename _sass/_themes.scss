@@ -1,9 +1,10 @@
 :root {
-  --global-theme-color: #7C3AED;
-  --global-hover-color: #6D28D9;
+  --global-theme-color: #2563EB;   /* Deep blue */
+  --global-hover-color: #1D4ED8;   /* Darker blue */
 }
 
+/* Dark mode color overrides */
 [data-theme="dark"] {
-  --global-theme-color: #A78BFA;
-  --global-hover-color: #C4B5FD;
+  --global-theme-color: #60A5FA;   /* Soft electric blue */
+  --global-hover-color: #93C5FD;
 }
