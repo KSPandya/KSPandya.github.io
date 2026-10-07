@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Paper Accepted in Information Sciences (IF: 6.0) 📄⚛️
+title: "Paper Accepted in Information Sciences (IF: 6.0) 📄⚛️"
 date: 2025-08-09 
 inline: false
 related_posts: false
