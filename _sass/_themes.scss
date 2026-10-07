@@ -1,10 +1,9 @@
 :root {
-  --global-theme-color: #6366f1;   /* Primary accent color (Indigo/Slate) */
-  --global-hover-color: #4f46e5;   /* Hover state for links */
+  --global-theme-color: #7C3AED;
+  --global-hover-color: #6D28D9;
 }
 
-/* Dark mode color overrides */
 [data-theme="dark"] {
-  --global-theme-color: #818cf8;
-  --global-hover-color: #6366f1;
+  --global-theme-color: #A78BFA;
+  --global-hover-color: #C4B5FD;
 }
