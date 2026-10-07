@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Paper Accepted in Information Sciences (IF: 6.0) 📄⚛️
-date: 2025-08-09 09:00:00+0530
+date: 2025-08-09 
 inline: false
 related_posts: false
 ---
