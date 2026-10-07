@@ -19,3 +19,9 @@ body {
   margin-top: 1rem;
   margin-bottom: 2rem;
 }
+/* Hide the scroll/reading progress bar completely */
+progress,
+#progress,
+.progress-container {
+  display: none !important;
+}
