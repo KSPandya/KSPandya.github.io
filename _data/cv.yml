@@ -1,94 +1,160 @@
-# CV Data Structure for al-folio (Dr. Komal Pandya)
-
 cv:
-  - title: Education
-    type: time_table
-    contents:
-      - title: Ph.D. in Computer Science (Quantum Optimization & Online Algorithms)
-        institution: Indian Institute of Technology Patna
-        year: Sep 2020 - Sep 2026
-        description: 
-          - "Advised by Dr. Abyayananda Maiti[cite: 1]."
-          - "Thesis: Higher-Order Matching in 3-Partite, 3-Uniform Hypergraphs: Classical Online Algorithms & Quantum Optimization (Defended: Sep 9, 2026)[cite: 1]."
-      - title: B.E. in Computer Engineering
-        institution: Government Engineering College Gandhinagar
-        year: 2015 - 2019
-        description: 
-          - "Project: Aspect-Based Sentiment Analysis[cite: 1]."
+  name: Dr. Komal Pandya
+  label: PhD in Computer Science (Quantum Optimization & Online Algorithms)
+  email: komalpandya@zohomail.in
+  location: Gujarat, India
+  phone: "+91-9409404411"
+  summary: Computer Science PhD specializing in Quantum Optimization and Online Algorithms. Demonstrated expertise in QAOA benchmarking, QUBO modeling, hypergraph matching, and multi-objective optimization.
 
-  - title: Research Experience
-    type: time_table
-    contents:
-      - title: Quantum Research Mentee
-        institution: Quantum Open Source Foundation (QOSF)
-        year: Apr 2022 - Mar 2024
-        description: 
-          - "Benchmarked QAOA performance and validated algorithmic scalability across diverse combinatorial problem sets[cite: 1]."
-      - title: Quantum Computing Intern
-        institution: Artificial Brain
-        year: Jan 2022 - Apr 2022
-        description: 
-          - "Formulated and executed a Quadratic Unconstrained Binary Optimization (QUBO) model for flight trajectory optimization (Deloitte Quantum Climate Challenge 2022)[cite: 1]."
-      - title: Quantum Computing Intern (QIntern)
-        institution: QWorld
-        year: Jul 2021 - Aug 2021
-        description: 
-          - "Formulated a QAOA approach for particle tracking in high-energy physics simulations[cite: 1]."
-      - title: Quantum Computing Intern (QIntern)
-        institution: MHRD, MHA, Govt. of India (CCPWC)
-        year: Jul 2021 - Aug 2021
-        description: 
-          - "Cyber-Crime Prevention against Women & Children[cite: 1]."
-      - title: Machine Learning Intern
-        institution: EISystems
-        year: Jul 2018 - Aug 2018
-        description: 
-          - "Optimized multi-modal ML model performance through systematic hyperparameter tuning and feature extraction[cite: 1]."
+  social_networks:
+    - network: LinkedIn
+      username: komal-pandya
+    - network: Google Scholar
+      username: komal-pandya
 
-  - title: Publications & Manuscripts
-    type: list
-    contents:
-      - "K. Pandya, S. Sakhuja, N. Kattian. 'Topology-Aware Active Debris Removal using Gaussian Boson Sampling.' Under Prep, 2026[cite: 1]."
-      - "K. Pandya, A. Maiti. 'Benchmarking the Three-Dimensional and the Numerical Three-Dimensional Matching Problems on the D-Wave Advantage Quantum Annealer.' Information Sciences, 2025[cite: 1]."
-      - "K. Blekos, D. Brand, A. Ceschini, CH. Chou, RH. Li, K. Pandya, A. Summer. 'A review on quantum approximate optimization algorithm and its variants.' Physics Reports, 2024[cite: 1]."
-      - "K. Pandya, A. Maiti. 'Randomized #-RANKING Algorithm for Online Trichromatic Matching.' IEEE Access, 2024[cite: 1]."
-      - "K. Pandya, A. Maiti. 'Unweighted Online Matching in k-Regular 3-Partite 3-Uniform Hypergraphs.' Communicated, 2025[cite: 1]."
-      - "K. Pandya, A. Maiti. 'Edge-Weighted Online Matching in 3-Partite Hypergraphs under Vertex Arrivals.' Communicated, 2025[cite: 1]."
-      - "K. Pandya. 'Quantum Query Bounds with a Simple Unified Framework for Online Bipartite Matching.' Under Prep, 2026[cite: 1]."
+  sections:
+    Education:
+      - institution: Indian Institute of Technology Patna
+        location: Patna, India
+        area: Computer Science (Quantum Optimization & Online Algorithms)
+        studyType: Ph.D.
+        start_date: Sep 2020
+        end_date: Sep 2026
+        highlights:
+          - "Advised By: Dr. Abyayananda Maiti"
+          - "Thesis: Higher-Order Matching in 3-Partite, 3-Uniform Hypergraphs: Classical Online Algorithms & Quantum Optimization (Defended: Sep 9, 2026)"
 
-  - title: Selected Talks & Presentations
-    type: list
-    contents:
-      - "Talk: 'Quantum-Integrated Systems for Space Warfare: ISR, C2, and Adaptive Engagement.' SCQC 2025, Bengaluru[cite: 1]."
-      - "Poster: 'Multi-Target Space Debris Optimization using Gaussian Boson Sampling,' SCQC 2025, Bengaluru[cite: 1]."
-      - "Talk: 'Advancements in Quantum Warfare,' Conf42, 2024 (Virtual)[cite: 1]."
-      - "Poster: 'Competitive Analysis of Online Trichromatic Matching,' RSD 2023, IIT Patna[cite: 1]."
+      - institution: Government Engineering College Gandhinagar
+        location: Gandhinagar, India
+        area: Computer Engineering
+        studyType: B.E.
+        start_date: 2015
+        end_date: 2019
+        highlights:
+          - "Project: Aspect-Based Sentiment Analysis"
 
-  - title: Fellowships & Awards
-    type: time_table
-    contents:
+    Experience:
+      - company: Quantum Open Source Foundation (QOSF)
+        position: Quantum Research Mentee
+        location: Remote
+        start_date: Apr 2022
+        end_date: Mar 2024
+        highlights:
+          - "Benchmarked QAOA performance and validated algorithmic scalability across diverse combinatorial problem sets."
+
+      - company: Artificial Brain
+        position: Quantum Computing Intern
+        location: Remote
+        start_date: Jan 2022
+        end_date: Apr 2022
+        highlights:
+          - "Formulated and executed a Quadratic Unconstrained Binary Optimization (QUBO) model for flight trajectory optimization (Deloitte Quantum Climate Challenge 2022)."
+
+      - company: QWorld
+        position: Quantum Computing Intern (QIntern)
+        location: Remote
+        start_date: Jul 2021
+        end_date: Aug 2021
+        highlights:
+          - "Formulated a QAOA approach for particle tracking in high-energy physics simulations."
+
+      - company: MHRD, MHA, Govt. of India
+        position: Quantum Computing Intern (QIntern)
+        location: On-Site
+        start_date: Jul 2021
+        end_date: Aug 2021
+        highlights:
+          - "Cyber-Crime Prevention against Women & Children (CCPWC)"
+
+      - company: EISystems
+        position: Machine Learning Intern
+        location: Bengaluru, India
+        start_date: Jul 2018
+        end_date: Aug 2018
+        highlights:
+          - "Optimized multi-modal ML model performance through systematic hyperparameter tuning and feature extraction."
+
+    Publications:
+      - title: "Topology-Aware Active Debris Removal using Gaussian Boson Sampling"
+        authors:
+          - K. Pandya
+          - S. Sakhuja
+          - N. Kattian
+        publisher: "Under Prep"
+        releaseDate: 2026
+
+      - title: "Benchmarking the Three-Dimensional and the Numerical Three-Dimensional Matching Problems on the D-Wave Advantage Quantum Annealer"
+        authors:
+          - K. Pandya
+          - A. Maiti
+        publisher: "Information Sciences"
+        releaseDate: 2025
+
+      - title: "A review on quantum approximate optimization algorithm and its variants"
+        authors:
+          - K. Blekos
+          - D. Brand
+          - A. Ceschini
+          - C. H. Chou
+          - R. H. Li
+          - K. Pandya
+          - A. Summer
+        publisher: "Physics Reports"
+        releaseDate: 2024
+
+      - title: "Randomized #-RANKING Algorithm for Online Trichromatic Matching"
+        authors:
+          - K. Pandya
+          - A. Maiti
+        publisher: "IEEE Access"
+        releaseDate: 2024
+
+      - title: "Unweighted Online Matching in k-Regular 3-Partite 3-Uniform Hypergraphs"
+        authors:
+          - K. Pandya
+          - A. Maiti
+        publisher: "Communicated"
+        releaseDate: 2025
+
+      - title: "Edge-Weighted Online Matching in 3-Partite Hypergraphs under Vertex Arrivals"
+        authors:
+          - K. Pandya
+          - A. Maiti
+        publisher: "Communicated"
+        releaseDate: 2025
+
+      - title: "Quantum Query Bounds with a Simple Unified Framework for Online Bipartite Matching"
+        authors:
+          - K. Pandya
+        publisher: "Under Prep"
+        releaseDate: 2026
+
+    Awards:
       - title: MHRD PhD Project Fellowship
-        institution: IIT Patna
-        year: 2020-2023
+        date: 2020-2023
+        awarder: IIT Patna
+
       - title: Research Grant Awardee
-        institution: Quantum Neural Technologies, SA
-        year: 2024
-      - title: Travel Grant Awardee
-        institution: IndoML 2023, IIT Bombay
-        year: 2023
-      - title: Travel Grant Awardee
-        institution: The CCPWC Projects Final Demonstration, New Delhi
-        year: 2022
+        date: 2024
+        awarder: Quantum Neural Technologies, SA
 
-  - title: Teaching & Mentorship
-    type: list
-    contents:
-      - "Graduate Teaching Assistant: Theory of Computation, Foundations of Theoretical Computer Science, Linear Algebra, Computing Lab, Algorithms[cite: 1]."
-      - "Research Mentorship: Co-advised 3 undergraduate researchers on hypergraph algorithm implementations and quantum simulation pipelines[cite: 1]."
+      - title: Travel Grant Awardee
+        date: 2023
+        awarder: IndoML 2023, IIT Bombay
 
-  - title: Technical Skills
-    type: list
-    contents:
-      - "**Quantum Stack**: D-Wave Leap, Penny Lane, Strawberry Fields, Qiskit, Cirq[cite: 1]."
-      - "**Programming & Tools**: Python, C/C++, MATLAB, Java, Gurobi, CPLEX, SQL, LATEX[cite: 1]."
-      - "**Web Frameworks**: Django, Streamlit, Hydralit, HTML, CSS, JS, Bootstrap[cite: 1]."
+      - title: Travel Grant Awardee
+        date: 2022
+        awarder: The CCPWC Projects Final Demonstration, New Delhi
+
+    Skills:
+      - name: Quantum Stack
+        level: Advanced
+        keywords: "D-Wave Leap, Penny Lane, Strawberry Fields, Qiskit, Cirq"
+
+      - name: Programming & Tools
+        level: Expert
+        keywords: "Python, C/C++, MATLAB, Java, Gurobi, CPLEX, SQL, LATEX"
+
+      - name: Web Frameworks
+        level: Intermediate
+        keywords: "Django, Streamlit, Hydralit, HTML, CSS, JS, Bootstrap"
