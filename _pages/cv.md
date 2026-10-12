@@ -234,7 +234,7 @@ nav_order: 5
       <div class="col-lg-3 col-md-6 mb-3">
         <div class="lang-card shadow-sm">
           <div class="lang-circle">GJ</div>
-          <h6 class="font-weight-bold mb-1">Gujarati</h6>
+          <h6 class="font-weight-bold mb-1">Gujarati <br><small style="font-size: 0.75rem; opacity: 0.75; font-weight: normal;">(ગુજરાતી)</small></h6>
           <span class="badge bg-success text-white mb-2" style="font-size: 0.65rem;">Native</span>
           <div class="lang-metric"><span>Speaking</span><strong>5/5</strong></div>
           <div class="lang-metric"><span>Reading</span><strong>5/5</strong></div>
@@ -245,7 +245,7 @@ nav_order: 5
       <div class="col-lg-3 col-md-6 mb-3">
         <div class="lang-card shadow-sm">
           <div class="lang-circle">EN</div>
-          <h6 class="font-weight-bold mb-1">English</h6>
+          <h6 class="font-weight-bold mb-1">English <br><small style="font-size: 0.75rem; opacity: 0.75; font-weight: normal;">(English)</small></h6>
           <span class="badge bg-secondary text-white mb-2" style="font-size: 0.65rem; opacity: 0.8;">Fluent</span>
           <div class="lang-metric"><span>Speaking</span><strong>5/5</strong></div>
           <div class="lang-metric"><span>Reading</span><strong>5/5</strong></div>
@@ -256,7 +256,7 @@ nav_order: 5
       <div class="col-lg-3 col-md-6 mb-3">
         <div class="lang-card shadow-sm">
           <div class="lang-circle">HI</div>
-          <h6 class="font-weight-bold mb-1">Hindi</h6>
+          <h6 class="font-weight-bold mb-1">Hindi <br><small style="font-size: 0.75rem; opacity: 0.75; font-weight: normal;">(हिन्दी)</small></h6>
           <span class="badge bg-secondary text-white mb-2" style="font-size: 0.65rem; opacity: 0.8;">Professional</span>
           <div class="lang-metric"><span>Speaking</span><strong>5/5</strong></div>
           <div class="lang-metric"><span>Reading</span><strong>5/5</strong></div>
@@ -267,7 +267,7 @@ nav_order: 5
       <div class="col-lg-3 col-md-6 mb-3">
         <div class="lang-card shadow-sm">
           <div class="lang-circle">SA</div>
-          <h6 class="font-weight-bold mb-1">Sanskrit</h6>
+          <h6 class="font-weight-bold mb-1">Sanskrit <br><small style="font-size: 0.75rem; opacity: 0.75; font-weight: normal;">(संस्कृतम्)</small></h6>
           <span class="badge bg-secondary text-white mb-2" style="font-size: 0.65rem; opacity: 0.8;">Classical</span>
           <div class="lang-metric"><span>Speaking</span><strong>2/5</strong></div>
           <div class="lang-metric"><span>Reading</span><strong>5/5</strong></div>
