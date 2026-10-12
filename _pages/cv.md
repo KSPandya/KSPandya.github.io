@@ -129,6 +129,31 @@ nav_order: 5
     </div>
   </div>
 
+  <!-- RESEARCH INTERESTS -->
+  <div class="mb-5">
+    <div class="cv-section-title"><i class="fa-solid fa-compass"></i> Research Interests</div>
+    <div class="row">
+      <div class="col-md-4 mb-3">
+        <div class="p-3 border rounded bg-light shadow-sm h-100">
+          <h6 class="font-weight-bold text-primary mb-2"><i class="fa-solid fa-atom me-1"></i> Foundations</h6>
+          <p class="small text-muted mb-0">Quantum & Classical Optimization, Hybrid Quantum-Classical Computation, Mathematical Modeling, and Computational Simulations.</p>
+        </div>
+      </div>
+      <div class="col-md-4 mb-3">
+        <div class="p-3 border rounded bg-light shadow-sm h-100">
+          <h6 class="font-weight-bold text-primary mb-2"><i class="fa-solid fa-shield-halved me-1"></i> Quantum Security</h6>
+          <p class="small text-muted mb-0">Quantum Cryptography, Quantum Key Distribution (QKD), and Constraint-Aware Variational Circuit Optimization.</p>
+        </div>
+      </div>
+      <div class="col-md-4 mb-3">
+        <div class="p-3 border rounded bg-light shadow-sm h-100">
+          <h6 class="font-weight-bold text-primary mb-2"><i class="fa-solid fa-satellite me-1"></i> Applications</h6>
+          <p class="small text-muted mb-0">Space Debris Removal, Satellite Constellation Management, and Large-Scale Complex Scheduling Problems.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
   <!-- EDUCATION -->
   <div class="mb-5">
     <div class="cv-section-title"><i class="fa-solid fa-graduation-cap"></i> Education</div>
