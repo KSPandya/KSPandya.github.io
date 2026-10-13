@@ -56,13 +56,13 @@ nav_order: 5
   }
   .chic-badge {
     display: inline-block;
-    padding: 0.4rem 0.85rem;
+    padding: 0.35rem 0.75rem;
     font-size: 0.75rem;
     font-weight: 600;
     border-radius: 50rem;
     background: rgba(56, 189, 248, 0.08);
     color: #0284c7;
-    margin: 0.25rem;
+    margin: 0.2rem;
     border: 1px solid rgba(56, 189, 248, 0.2);
     transition: all 0.2s ease;
   }
@@ -338,6 +338,95 @@ nav_order: 5
     </div>
   </div>
 
+  <!-- SKILLS, COURSEWORK & COMPETENCIES -->
+  <div class="mb-5">
+    <div class="cv-section-title"><i class="fa-solid fa-laptop-code"></i> Skills & Coursework</div>
+    
+    <div class="row">
+      <!-- Programming & Tools -->
+      <div class="col-md-6 mb-3">
+        <div class="p-3 border rounded bg-light shadow-sm h-100">
+          <h6 class="font-weight-bold text-primary mb-2">Programming Languages & Tools</h6>
+          <div>
+            <span class="chic-badge">Python</span>
+            <span class="chic-badge">C / C++</span>
+            <span class="chic-badge">MATLAB</span>
+            <span class="chic-badge">Octave</span>
+            <span class="chic-badge">Java</span>
+            <span class="chic-badge">SQL</span>
+            <span class="chic-badge">LaTeX</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Quantum Stack & Frameworks -->
+      <div class="col-md-6 mb-3">
+        <div class="p-3 border rounded bg-light shadow-sm h-100">
+          <h6 class="font-weight-bold text-primary mb-2">Quantum Frameworks & Solvers</h6>
+          <div>
+            <span class="chic-badge">Qiskit</span>
+            <span class="chic-badge">PennyLane</span>
+            <span class="chic-badge">D-Wave Leap</span>
+            <span class="chic-badge">Cirq</span>
+            <span class="chic-badge">Strawberry Fields</span>
+            <span class="chic-badge">Gurobi</span>
+            <span class="chic-badge">CPLEX</span>
+            <span class="chic-badge">Astrometrica</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Web Development -->
+      <div class="col-md-6 mb-3">
+        <div class="p-3 border rounded bg-light shadow-sm h-100">
+          <h6 class="font-weight-bold text-primary mb-2">Web & Frameworks</h6>
+          <div>
+            <span class="chic-badge">HTML / CSS</span>
+            <span class="chic-badge">JavaScript</span>
+            <span class="chic-badge">PHP</span>
+            <span class="chic-badge">WordPress</span>
+            <span class="chic-badge">Bootstrap</span>
+            <span class="chic-badge">Django</span>
+            <span class="chic-badge">Streamlit</span>
+            <span class="chic-badge">Hydralit</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Core Coursework -->
+      <div class="col-md-6 mb-3">
+        <div class="p-3 border rounded bg-light shadow-sm h-100">
+          <h6 class="font-weight-bold text-primary mb-2">Core Coursework</h6>
+          <div>
+            <span class="chic-badge">Data Structures & Algorithms</span>
+            <span class="chic-badge">DBMS</span>
+            <span class="chic-badge">Machine Learning</span>
+            <span class="chic-badge">Artificial Intelligence</span>
+            <span class="chic-badge">Computer Networks</span>
+            <span class="chic-badge">Operating Systems</span>
+            <span class="chic-badge">Time Series Analysis</span>
+            <span class="chic-badge">Deep Learning</span>
+            <span class="chic-badge">Probability & Statistics</span>
+            <span class="chic-badge">Stochastic Processes</span>
+            <span class="chic-badge">Random Signals & Systems</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Misc & Soft Skills -->
+    <div class="p-3 border rounded bg-light shadow-sm mt-3">
+      <h6 class="font-weight-bold text-primary mb-2">Core Competencies & Misc</h6>
+      <div>
+        <span class="chic-badge">Academic Research</span>
+        <span class="chic-badge">Teaching & Mentorship</span>
+        <span class="chic-badge">Critical Thinking</span>
+        <span class="chic-badge">Logical Reasoning</span>
+        <span class="chic-badge">Public Speaking</span>
+      </div>
+    </div>
+  </div>
+
   <!-- LANGUAGES -->
   <div class="mb-5">
     <div class="cv-section-title"><i class="fa-solid fa-language"></i> Languages</div>
@@ -386,24 +475,6 @@ nav_order: 5
           <div class="lang-metric"><span>Writing</span><strong>5/5</strong></div>
         </div>
       </div>
-    </div>
-  </div>
-
-  <!-- TECHNICAL SKILLS -->
-  <div class="mb-4">
-    <div class="cv-section-title"><i class="fa-solid fa-code"></i> Technical Stack</div>
-    <div class="d-flex flex-wrap">
-      <span class="chic-badge">D-Wave Leap</span>
-      <span class="chic-badge">PennyLane</span>
-      <span class="chic-badge">Qiskit</span>
-      <span class="chic-badge">Cirq</span>
-      <span class="chic-badge">Strawberry Fields</span>
-      <span class="chic-badge">Python</span>
-      <span class="chic-badge">C / C++</span>
-      <span class="chic-badge">Gurobi</span>
-      <span class="chic-badge">CPLEX</span>
-      <span class="chic-badge">MATLAB</span>
-      <span class="chic-badge">LaTeX</span>
     </div>
   </div>
 
