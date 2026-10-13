@@ -309,6 +309,35 @@ nav_order: 5
     </div>
   </div>
 
+  <!-- CERTIFICATES & ACHIEVEMENTS -->
+  <div class="mb-5">
+    <div class="cv-section-title"><i class="fa-solid fa-certificate"></i> Certificates & Achievements</div>
+    
+    <div class="timeline-item">
+      <h5 class="font-weight-bold mb-1">IBM Quantum Challenge - Fall 2021 (Advanced)</h5>
+      <p class="text-muted small mb-2">IBM Quantum | Issued Nov 9, 2021</p>
+      <p class="small text-secondary mb-0">Successfully tackled advanced circuit implementation and optimization problem sets on IBM quantum hardware.</p>
+    </div>
+
+    <div class="timeline-item">
+      <h5 class="font-weight-bold mb-1">IBM Quantum Challenge Africa 2021 Achievement</h5>
+      <p class="text-muted small mb-2">IBM Quantum | Issued Sep 29, 2021</p>
+      <p class="small text-secondary mb-0">Completed regional quantum programming challenges and computational workflows.</p>
+    </div>
+
+    <div class="timeline-item">
+      <h5 class="font-weight-bold mb-1">Quantum Global Summer School on Quantum Machine Learning</h5>
+      <p class="text-muted small mb-2">Advanced Level | 2021</p>
+      <p class="small text-secondary mb-0">Advanced certification covering hybrid quantum neural networks and parameterized quantum circuit optimization.</p>
+    </div>
+
+    <div class="timeline-item">
+      <h5 class="font-weight-bold mb-1">QWorld Quantum Educational Certifications</h5>
+      <p class="text-muted small mb-2">QWorld | 2021 – 2023</p>
+      <p class="small text-secondary mb-0">Earned foundational and advanced badges: <strong>QBronze</strong> (Intro to Quantum Computing), <strong>QSilver</strong> (Quantum Programming), <strong>QNickel</strong> (Quantum Mystery), and <strong>QMercury</strong>.</p>
+    </div>
+  </div>
+
   <!-- LANGUAGES -->
   <div class="mb-5">
     <div class="cv-section-title"><i class="fa-solid fa-language"></i> Languages</div>
