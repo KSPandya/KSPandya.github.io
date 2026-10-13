@@ -251,6 +251,64 @@ nav_order: 5
     </div>
   </div>
 
+  <!-- MAJOR POSITIONS OF RESPONSIBILITY -->
+  <div class="mb-5">
+    <div class="cv-section-title"><i class="fa-solid fa-users-rectangle"></i> Positions of Responsibility</div>
+    
+    <div class="timeline-item">
+      <h5 class="font-weight-bold mb-1">Translation Lead</h5>
+      <p class="text-muted small mb-2">Qiskit Localization (Gujarati) | May 2023 – Mar 2024[cite: 1]</p>
+      <p class="small text-secondary mb-0">Led regional quantum documentation and localization initiatives for Qiskit in Gujarati.</p>
+    </div>
+
+    <div class="timeline-item">
+      <h5 class="font-weight-bold mb-1">Volunteer, Technical Team</h5>
+      <p class="text-muted small mb-2">Research Scholars' Day (RSD) 2023, IIT Patna | Feb 2023[cite: 1]</p>
+      <p class="small text-secondary mb-0">Managed technical logistics and computational session coordination for the institutional symposium.</p>
+    </div>
+  </div>
+
+  <!-- WORKSHOPS, CONFERENCES & SCHOOLS -->
+  <div class="mb-5">
+    <div class="cv-section-title"><i class="fa-solid fa-chalkboard-user"></i> Workshops, Conferences & Schools</div>
+    
+    <div class="timeline-item">
+      <h5 class="font-weight-bold mb-1">DefSat 2026</h5>
+      <p class="text-muted small mb-2">India | February 2026 <span class="badge bg-info text-dark ms-1" style="font-size: 0.65rem;">On-site</span></p>
+      <p class="small text-secondary mb-0">Participated in national defense space technology discussions and quantum-secure communications panels.</p>
+    </div>
+
+    <div class="timeline-item">
+      <h5 class="font-weight-bold mb-1">Symposium Celebrating the Quantum Century (SCQC 2025)</h5>
+      <p class="text-muted small mb-2">Bengaluru | October 2025 <span class="badge bg-info text-dark ms-1" style="font-size: 0.65rem;">On-site</span></p>
+      <p class="small text-secondary mb-0">Presented research on quantum-integrated systems for space warfare, ISR, C2, and multi-target space debris optimization.</p>
+    </div>
+
+    <div class="timeline-item">
+      <h5 class="font-weight-bold mb-1">Quantum India Bengaluru (QIB) Summit 2025</h5>
+      <p class="text-muted small mb-2">Bengaluru | July 2025 <span class="badge bg-info text-dark ms-1" style="font-size: 0.65rem;">On-site</span></p>
+      <p class="small text-secondary mb-0">Engaged with India's national quantum mission hubs, academic leaders, and industry pioneers.</p>
+    </div>
+
+    <div class="timeline-item">
+      <h5 class="font-weight-bold mb-1">International Workshop on Engineering and Integration Challenges in Quantum Communication and Quantum Computing</h5>
+      <p class="text-muted small mb-2">C-DAC Pune | March 2024 <span class="badge bg-info text-dark ms-1" style="font-size: 0.65rem;">On-site</span></p>
+      <p class="small text-secondary mb-0">Received participation certificate focusing on hardware integration hurdles and quantum communication architectures.</p>
+    </div>
+
+    <div class="timeline-item">
+      <h5 class="font-weight-bold mb-1">Global Quantum Computing, Sensing and Communication Program</h5>
+      <p class="text-muted small mb-2">Womanium | 2023 <span class="badge bg-secondary text-white ms-1" style="font-size: 0.65rem;">Virtual</span></p>
+      <p class="small text-secondary mb-0">Completed advanced global training modules spanning quantum sensing, quantum computing algorithms, and communication protocols.</p>
+    </div>
+
+    <div class="timeline-item">
+      <h5 class="font-weight-bold mb-1">Quantum Global Summer School on Quantum Machine Learning</h5>
+      <p class="text-muted small mb-2">2021 <span class="badge bg-secondary text-white ms-1" style="font-size: 0.65rem;">Virtual</span></p>
+      <p class="small text-secondary mb-0">Intensive coursework and hands-on implementation of variational quantum algorithms and quantum machine learning architectures.</p>
+    </div>
+  </div>
+
   <!-- LANGUAGES -->
   <div class="mb-5">
     <div class="cv-section-title"><i class="fa-solid fa-language"></i> Languages</div>
