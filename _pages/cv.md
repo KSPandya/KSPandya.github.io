@@ -197,11 +197,13 @@ nav_order: 5
 
   <!-- SELECTED PUBLICATIONS -->
   <div class="mb-5">
-    <div class="cv-section-title"><i class="fa-solid fa-book-open"></i> Selected Publications</div>
+    <div class="cv-section-title"><i class="fa-solid fa-book-open"></i> Selected Publications & Preprints</div>
     
     <div class="pub-item">
-      <p class="small mb-1">K. Pandya, S. Sakhuja, N. Kattian. <br><strong>"Topology-Aware Active Debris Removal using Gaussian Boson Sampling."</strong></p>
-      <span class="badge bg-light text-dark border">Under Prep, 2026</span>
+      <p class="small mb-1">K. Pandya, S. Sakhuja, N. Kattian. <br><strong>"A Topology-Aware Quantum-Classical Framework for Multi-Target Active Debris Removal using Gaussian Boson Sampling."</strong></p>
+      <a href="https://doi.org/10.48550/arXiv.2610.31824" target="_blank" class="badge bg-light text-dark border text-decoration-none">
+        <i class="fa-solid fa-file-pdf me-1"></i> arXiv:2610.31824 (2026)
+      </a>
     </div>
 
     <div class="pub-item">
