@@ -47,3 +47,4 @@ The results were compelling, demonstrating that our quantum-enhanced approach co
     {% include figure.liquid loading="eager" path="assets/img/projects/qubo_landscape.jpg" title="Optimization landscape" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
+{% endraw %}
