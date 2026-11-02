@@ -1,81 +1,92 @@
 ---
 layout: page
-title: project 8
-description: an other project with a background image and giscus comments
-img: assets/img/9.jpg
-importance: 2
-category: work
-giscus_comments: true
+title: Resilient Quantum Space Operations
+description: A conceptual 5-tier end-to-end architecture integrating quantum sensing, QKD, combinatorial optimization, quantum PNT, and digital twins for autonomous space missions.
+img: /assets/img/Untitled Diagram-Page-12(1).png
+importance: 3
+category: fun
+related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+As orbital congestion, space debris, and sophisticated cyber-threats escalate in Low Earth Orbit (LEO) and beyond, traditional classical architectures face critical vulnerabilities in latency, security, and GPS-independent navigation. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+This conceptual project explores a **5-tier end-to-end quantum space architecture** designed to achieve autonomous, tamper-proof, and highly optimized space situational awareness and mission execution.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+---
+
+### The 5-Tier Architectural Framework
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/tier1_detection.jpg" title="Tier 1: Quantum Sensing" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/tier2_transmission.jpg" title="Tier 2: Secure Communication" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/tier3_optimization.jpg" title="Tier 3: Optimization" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    Core Architectural Tiers: (Left) Tier 1 Threat Detection via quantum sensing. (Center) Tier 2 Secure Transmission via satellite QKD. (Right) Tier 3 Decision-Making via QUBO/QAOA optimization.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+---
+
+### Tier-by-Tier Breakdown
+
+#### 1. Threat Detection & Space Situational Awareness (SSA)
+* **Mechanism:** Utilizes advanced quantum magnetometers, cold-atom interferometric sensors, and high-precision optical tracking to detect orbital anomalies, micro-debris trajectories, and unauthorized interception attempts.
+* **Function:** Serves as the primary observational layer, feeding real-time positional and electromagnetic metadata into the architecture.
+
+#### 2. Secure Transmission & Quantum Key Distribution (QKD)
+* **Mechanism:** Employs free-space optical payloads and chip-scale photonic LEO satellite transmitters to establish unconditional, physics-guaranteed secure links.
+* **Function:** Guarantees that telemetry, command and control (C2) instructions, and sensitive threat data are transmitted across ground-to-space networks immune to "harvest-now, decrypt-later" interception.
+
+#### 3. Optimization & Decision-Making
+* **Mechanism:** Leverages quantum algorithms (such as QAOA and QUBO solvers, alongside multi-partition hypergraph matching) to process complex combinatorial constraints.
+* **Function:** Dynamically resolves multi-target scheduling, collision avoidance maneuvers, and constellation resource allocation under strict real-time temporal and energy limits.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/projects/tier4_5_navigation_twin.jpg" title="Tiers 4 & 5: Navigation & Digital Twin" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/projects/digital_twin_loop.jpg" title="Feedback Loop" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Autonomous Navigation & Feedback: (Left) Quantum Inertial Measurement Units (IMUs) providing absolute positioning in GPS-denied zones. (Right) Closed-loop synchronization via a quantum-enhanced digital twin.
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+#### 4. Navigation & Autonomous Guidance (Quantum PNT)
+* **Mechanism:** Integrates Cold-Atom Quantum Inertial Measurement Units (IMUs) and optical atomic clocks.
+* **Function:** Delivers absolute, drift-free Position, Navigation, and Timing (PNT) capabilities in GPS-denied or heavily jammed operational environments.
+
+#### 5. Closed-Loop Feedback via Quantum Digital Twin
+* **Mechanism:** Synthesizes live telemetry, orbital mechanics models (via STK/simulation frameworks), and quantum state estimations into a unified digital twin.
+* **Function:** Continuously re-calibrates the upper tiers, closing the loop between predictive simulation and autonomous orbital execution to ensure lifelong mission resilience.
+
+---
+
+### Architectural Summary Table
+
+| Tier | Function | Core Quantum Technology | Primary Advantage |
+| :--- | :--- | :--- | :--- |
+| **Tier 1** | Threat Detection & SSA | Cold-atom sensors & quantum magnetometers | Sub-nanotesla sensitivity & early anomaly detection |
+| **Tier 2** | Secure Transmission | Free-space optical QKD & LEO payloads | Unconditional security via the No-Cloning Theorem |
+| **Tier 3** | Optimization & C2 | QAOA / QUBO / Hypergraph matching | Rapid resolution of NP-hard orbital scheduling |
+| **Tier 4** | Navigation & PNT | Quantum IMUs & optical clocks | Absolute, drift-free navigation without GPS |
+| **Tier 5** | Closed-Loop Feedback | Quantum Digital Twin & STK simulation | Real-time adaptive mission re-calibration |
 
 {% raw %}
-
 ```html
 <div class="row justify-content-sm-center">
   <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/projects/tier4_5_navigation_twin.jpg" title="Tiers 4 & 5: Navigation & Digital Twin" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/projects/digital_twin_loop.jpg" title="Feedback Loop" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
-```
-
 {% endraw %}
