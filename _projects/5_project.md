@@ -1,80 +1,53 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
+title: Satellite QKD & Quantum Communications Series
+description: A 14-part self-learning challenge and technical blog series on free-space QKD and satellite quantum technologies hosted by Quantum Computing India.
+img: assets/img/sat.png
+importance: 1
 category: fun
+related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+During August 2023, I completed a self-learning challenge hosted by **Quantum Computing India (QCI)** focused on satellite-based Quantum Key Distribution (QKD) and free-space quantum communication. As part of this initiative, I authored a 14-part technical article series exploring the physics, hardware, and orbital architectures enabling global quantum security.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+### Key Focus Areas & Topic Overview
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/micius_satellite.jpg" title="Satellite QKD Architecture" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/free_space_optics.jpg" title="Free-Space Optical Link" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    Visualizing satellite-relayed quantum links, optical alignment tracking, and free-space entanglement distribution.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+The series synthesizes key concepts across satellite quantum infrastructure, broken down into three major pillars:
+
+1. **Satellite-Based QKD & Space Missions:**
+   * **Micius Satellite Project:** Detailed timeline, experimental milestones, and breakthroughs in space-to-ground entanglement distribution.
+   * **Upcoming Missions:** Architecture and goals of ESA’s **Eagle-1** initiative and CubeSat deployments for low-Earth orbit quantum nodes.
+
+2. **Free-Space Optical Communications & Physics:**
+   * **Entanglement in Space:** Principles of photon-pair generation, optical link tracking, and pointing accuracy under atmospheric turbulence.
+   * **System Components:** Payload design, single-photon detectors, and optical ground stations.
+
+3. **Performance & Implementation Challenges:**
+   * **Loss & Attenuation:** Channel loss metrics, background noise filtering, and daylight operation limits.
+   * **Advantages & Scaling:** Comparing ground fiber distance limitations ($~200$ km) against satellite-relayed trust-node networks for global reach.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/projects/qkd_system_metrics.jpg" title="QKD Performance Analysis" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Comparative analysis of secret key rates (SKR) vs. attenuation in free-space link channels.
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+### Read the Full Series
 
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+You can read all 14 published parts on my Medium blog:
+👉 **[Read the complete QKD Series on Medium](https://medium.com/@k-p)**
