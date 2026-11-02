@@ -3,7 +3,7 @@ layout: page
 title: Multi-Modal ML Optimization
 description: Optimized machine learning models for multi-modal data through systematic hyperparameter tuning and feature engineering at EISystems.
 img: /assets/img/eisystems.png
-importance: 3
+importance: 4
 category: work
 related_publications: false
 ---
