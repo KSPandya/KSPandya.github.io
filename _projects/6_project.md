@@ -56,3 +56,4 @@ While classical models like SARIMA performed exceptionally well for short-term s
     {% include figure.liquid path="assets/img/projects/arima_vs_lstm_forecast.jpg" title="Forecast Comparison" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
+{% endraw %}
