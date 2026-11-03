@@ -10,6 +10,7 @@ buy_link: https://www.amazon.com/Quantum-Computation-Information-10th-Anniversar
 date: 2024-08-23
 released: 2010
 stars: 5
+status: Finished
 ---
 
 Universally recognized as the definitive textbook and gold standard in the field (famously known as "Mike and Ike"), Michael A. Nielsen and Isaac L. Chuang's masterpiece covers everything from basic quantum mechanics and quantum circuits to quantum error correction, cryptography, and information theory in exhaustive, rigorous detail.
