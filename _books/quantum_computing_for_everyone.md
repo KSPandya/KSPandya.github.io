@@ -10,6 +10,7 @@ buy_link: https://www.amazon.com/Quantum-Computing-Everyone-Mit-Press/dp/0262539
 date: 2024-08-23
 released: 2019
 stars: 5
+status: Finished
 ---
 
 An exceptionally accessible introduction designed for readers with minimal math or physics backgrounds. Chris Bernhardt gently builds up the foundational concepts of qubits, superposition, entanglement, and basic quantum algorithms using linear algebra concepts explained entirely from scratch. 
