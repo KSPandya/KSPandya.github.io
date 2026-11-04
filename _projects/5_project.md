@@ -12,17 +12,7 @@ During August 2023, I completed a self-learning challenge hosted by **Quantum Co
 
 ### Key Focus Areas & Topic Overview
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/micius_satellite.jpg" title="Satellite QKD Architecture" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/free_space_optics.jpg" title="Free-Space Optical Link" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Visualizing satellite-relayed quantum links, optical alignment tracking, and free-space entanglement distribution.
-</div>
+
 
 The series synthesizes key concepts across satellite quantum infrastructure, broken down into three major pillars:
 
@@ -38,14 +28,7 @@ The series synthesizes key concepts across satellite quantum infrastructure, bro
    * **Loss & Attenuation:** Channel loss metrics, background noise filtering, and daylight operation limits.
    * **Advantages & Scaling:** Comparing ground fiber distance limitations ($~200$ km) against satellite-relayed trust-node networks for global reach.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projects/qkd_system_metrics.jpg" title="QKD Performance Analysis" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Comparative analysis of secret key rates (SKR) vs. attenuation in free-space link channels.
-</div>
+
 
 ### Read the Full Series
 
