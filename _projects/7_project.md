@@ -14,20 +14,6 @@ As defense systems face increasingly sophisticated cyber threats, electronic war
 
 ### The Three Military Verticals: Overview & Comparison
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/quantum_computation.jpg" title="Quantum Computation" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/quantum_communication.jpg" title="Quantum Communication" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/quantum_sensing.jpg" title="Quantum Sensing" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Core Military Verticals: (Left) Quantum Computation for logistical optimization and cryptography. (Center) Quantum Communication for tamper-evident command & control. (Right) Quantum Sensing for GPS-denied navigation and stealth detection.
-</div>
 
 ---
 
@@ -45,17 +31,7 @@ As defense systems face increasingly sophisticated cyber threats, electronic war
 * **Progress & TRL (TRL 7–9):** Terrestrial fiber QKD and free-space satellite QKD (such as Micius and commercial LEO payloads) are operationally mature and deployed in select defense testbeds.
 * **Limitations:** Distance attenuation over fiber ($~100-200$ km without trusted relays), atmospheric turbulence disrupting free-space optical pointing, and high hardware costs for single-photon detectors.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projects/military_trl_breakdown.jpg" title="TRL Breakdown Matrix" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projects/sensor_comparison.jpg" title="Sensor Comparison" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Comparative Analysis: (Left) Technology Readiness Level (TRL) progression across military quantum verticals. (Right) Inertial sensor precision benchmark comparing classical ring laser gyroscopes against cold-atom quantum accelerometers.
-</div>
+
 
 ---
 
@@ -75,14 +51,4 @@ As defense systems face increasingly sophisticated cyber threats, electronic war
 | **Communication** | Unconditional security against interception | Public-key cryptography (RSA, ECC) | TRL 7–9 | Distance limits & atmospheric attenuation |
 | **Sensing (PNT)** | GPS-denied navigation & stealth detection | Ring Laser Gyros / MEMS IMUs | TRL 6–8 | SWaP (Size, Weight, and Power) constraints |
 
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/projects/military_trl_breakdown.jpg" title="TRL Breakdown Matrix" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/projects/sensor_comparison.jpg" title="Sensor Comparison" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-{% endraw %}
+
