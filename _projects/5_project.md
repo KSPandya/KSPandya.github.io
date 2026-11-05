@@ -4,7 +4,7 @@ title: Satellite QKD & Quantum Communications Series
 description: A 14-part self-learning challenge and technical blog series on free-space QKD and satellite quantum technologies.
 img: assets/img/sat.png
 importance: 1
-category: fun
+category: Other Programs
 related_publications: false
 ---
 
