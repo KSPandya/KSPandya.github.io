@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Attended DefSAT 2026 in New Delhi 🛰️
+title: Attended DefSAT 2026 in New Delhi 
 date: 2026-02-24 
 inline: false
 related_posts: false
