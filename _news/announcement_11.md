@@ -8,4 +8,4 @@ related_posts: false
 
 I had the opportunity to present a virtual talk titled **"Advancements in Quantum Warfare"** at the **Conf42 Quantum Computing 2024** summit on June 27, 2024. 
 
-The talk explored the intersection of quantum technologies, strategic defense applications, and emerging cybersecurity paradigms in the modern quantum landscape.
+The talk explored the intersection of quantum technologies, strategic defense applications, and emerging cybersecurity paradigms in the modern quantum landscape. You can watch or explore the details of the presentation directly at the [Conf42 Quantum Computing 2024 Event Page](https://www.conf42.com/Quantum_Computing_2024_Komal_Pandya_quantum_warfare_advancements).
