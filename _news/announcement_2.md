@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Successfully submitted my PhD synopsis seminar and doctoral thesis in Computer Science at **IIT Patna**! 📄
+Successfully submitted my PhD synopsis seminar and doctoral thesis in Computer Science at **IIT Patna**! 
