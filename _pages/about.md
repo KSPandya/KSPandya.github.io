@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: PhD in Computer Science • Quantum Optimization & Online Algorithms
 
