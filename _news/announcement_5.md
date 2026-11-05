@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Attended Quantum India Bengaluru Summit (QIB 2025) ⚛️
+title: Attended Quantum India Bengaluru Summit (QIB 2025) 
 date: 2025-07-31 
 inline: false
 related_posts: false
