@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Review Paper on Quantum Approximate Optimization Algorithm Accepted in Physics Reports
+title: "Review Paper on Quantum Approximate Optimization Algorithm Accepted in Physics Reports (IF: 27.5)"
 date: 2024-03-05 
 inline: false
 related_posts: false
