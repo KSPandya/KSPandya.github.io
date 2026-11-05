@@ -1,6 +1,6 @@
 ---
 layout: page
-title: news
+title: Updates
 permalink: /news/
 nav: true
 nav_order: 3
