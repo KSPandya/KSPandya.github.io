@@ -4,7 +4,7 @@ title: QUBO Flight Trajectory Optimization
 description: Formulated a QUBO model for flight path planning in the Deloitte Quantum Climate Challenge 2022.
 img: /assets/img/trajectory.png
 importance: 1
-category: work
+category: Core Research
 ---
 
 This internship provided an incredible opportunity to explore the intersection of quantum computing and sustainable transportation. During my time as a Quantum Computing Intern at Artificial Brain, I actively participated in the Deloitte Quantum Climate Challenge 2022, focusing specifically on optimizing flight trajectories to reduce carbon emissions.
