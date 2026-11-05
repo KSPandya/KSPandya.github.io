@@ -18,6 +18,4 @@ Our project focused on implementing and benchmarking multiple systematic grid se
 
 
 
-The results were decisive, revealing enhanced predictive performance and significant convergence speed-up across diverse multi-modal test scenarios. We were able to significantly reduce computational bottlenecks, proving that a meticulous, multi-pronged optimization strategy is essential for achieving state-of-the-art performance in complex machine learning deployments. This dynamic matching of hypergraph constraints remains relevant not just in machine learning, but also in free-space optical QKD links.
-
 
