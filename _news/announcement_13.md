@@ -2,7 +2,7 @@
 layout: post
 title: "Successfully Delivered Annual Progress Seminar (APS) on Primes Based Randomization for Online Trichromatic Matching"
 date: 2023-08-30 
-inline: true
+inline: false
 related_posts: false
 ---
 
