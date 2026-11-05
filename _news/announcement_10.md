@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Paper Accepted in IEEE Access
+title: Paper Accepted in IEEE Access (IF: 4.2)
 date: 2024-02-09 
 inline: false
 related_posts: false
