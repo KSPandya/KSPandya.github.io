@@ -4,7 +4,7 @@ title: Cyber-Crime Prevention Portal
 description: Developed a web platform to spread digital awareness and support public safety initiatives for the MHRD and MHA, Govt. of India.
 img: /assets/img/ccpwc.png
 importance: 3
-category: work
+category: Core Research
 related_publications: false
 --- 
 
