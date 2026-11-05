@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /cv/
-title: curriculum vitae
+title: Curriculum Vitae
 description: Quantum Optimization, Online Algorithms & Theoretical Computer Science
 nav: true
 nav_order: 5
