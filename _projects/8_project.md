@@ -4,7 +4,7 @@ title: Resilient Quantum Space Operations
 description: A conceptual 5-tier end-to-end architecture integrating quantum sensing, QKD, combinatorial optimization, quantum PNT, and digital twins for autonomous space missions.
 img: /assets/img/Untitled Diagram-Page-12 (1).png
 importance: 3
-category: fun
+category: Core Research
 related_publications: false
 ---
 
