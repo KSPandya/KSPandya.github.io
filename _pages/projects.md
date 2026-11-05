@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A selection of research projects, benchmarking studies, and technical initiatives in quantum computing, optimization, and quantum communications.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [Core Research, Other Programs]
 horizontal: false
 ---
 
