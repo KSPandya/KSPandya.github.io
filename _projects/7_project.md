@@ -4,7 +4,7 @@ title: Quantum Technologies in Military Applications
 description: Comprehensive assessment of status, progress, limitations, and Technology Readiness Levels (TRLs) across quantum computation, communication, and sensing.
 img: /assets/img/military.png
 importance: 5
-category: work
+category: Core Research
 ---
 
 As defense systems face increasingly sophisticated cyber threats, electronic warfare, and GPS-denied operational environments, quantum technologies offer a transformative paradigm shift. This project synthesizes the strategic landscape, operational advantages, and technical bottlenecks of quantum systems across three core military verticals: **Quantum Computation**, **Quantum Communication**, and **Quantum Sensing**.
