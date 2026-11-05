@@ -4,7 +4,7 @@ title: QAOA Particle Tracking
 description: Explored a Quantum Approximate Optimization Algorithm (QAOA) approach for particle tracking in high-energy physics simulations as part of QIntern.
 img: /assets/img/particle.png
 importance: 2
-category: fun
+category: Other Programs
 ---
 
 As part of the QIntern program at QWorld, I explored the application of quantum computing to enhance high-energy physics (HEP) simulations, studying an existing Quantum Approximate Optimization Algorithm (QAOA) approach for the computationally expensive task of particle tracking in simulated detector data.
