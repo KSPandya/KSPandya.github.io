@@ -4,7 +4,7 @@ title: Solar Activity Prediction & Time-Series Forecasting
 description: Comparing classical statistical models (ARIMA, SARIMA) with Deep Learning architectures (LSTM) for space weather forecasting.
 img: /assets/img/solar.png
 importance: 2
-category: fun
+category: Other Programs
 related_publications: false
 ---
 
