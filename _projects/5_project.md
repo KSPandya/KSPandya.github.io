@@ -1,18 +1,16 @@
 ---
 layout: page
 title: Satellite QKD & Quantum Communications Series
-description: A 14-part self-learning challenge and technical blog series on free-space QKD and satellite quantum technologies hosted by Quantum Computing India.
+description: A 14-part self-learning challenge and technical blog series on free-space QKD and satellite quantum technologies.
 img: assets/img/sat.png
 importance: 1
 category: fun
 related_publications: false
 ---
 
-During August 2023, I completed a self-learning challenge hosted by **Quantum Computing India (QCI)** focused on satellite-based Quantum Key Distribution (QKD) and free-space quantum communication. As part of this initiative, I authored a 14-part technical article series exploring the physics, hardware, and orbital architectures enabling global quantum security.
+During August 2023, I completed an intensive self-learning challenge as part of the **Womanium Quantum Global Program** and **Quantum Computing India (QCI)**, focused on satellite-based Quantum Key Distribution (QKD) and free-space quantum communication. As part of this initiative, I authored a 14-part technical article series exploring the physics, hardware, and orbital architectures enabling global quantum security.
 
 ### Key Focus Areas & Topic Overview
-
-
 
 The series synthesizes key concepts across satellite quantum infrastructure, broken down into three major pillars:
 
@@ -26,9 +24,7 @@ The series synthesizes key concepts across satellite quantum infrastructure, bro
 
 3. **Performance & Implementation Challenges:**
    * **Loss & Attenuation:** Channel loss metrics, background noise filtering, and daylight operation limits.
-   * **Advantages & Scaling:** Comparing ground fiber distance limitations ($~200$ km) against satellite-relayed trust-node networks for global reach.
-
-
+   * **Advantages & Scaling:** Comparing ground fiber distance limitations ($\sim 200$ km) against satellite-relayed trust-node networks for global reach.
 
 ### Read the Full Series
 
