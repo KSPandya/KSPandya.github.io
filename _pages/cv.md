@@ -113,7 +113,7 @@ nav_order: 5
   <!-- Top Action Bar -->
   <div class="d-flex justify-content-between align-items-center mb-4">
     <span class="text-muted small font-italic">Ph.D. Defense: Sept 2026 | Indian Institute of Technology Patna</span>
-    <a href="{{ '/assets/pdf/your_name_cv.pdf' | relative_url }}" target="_blank" class="btn btn-sm btn-dark font-weight-bold px-3 py-2 shadow-sm" style="border-radius: 6px;">
+    <a href="{{ '/assets/pdf/Dr. Komal Pandya Brief.pdf' | relative_url }}" target="_blank" class="btn btn-sm btn-dark font-weight-bold px-3 py-2 shadow-sm" style="border-radius: 6px;">
       <i class="fa-solid fa-file-pdf me-1"></i> Download PDF
     </a>
   </div>
@@ -121,7 +121,7 @@ nav_order: 5
   <!-- Hero Header Card -->
   <div class="cv-header-card shadow-sm">
     <h3 class="font-weight-bold mb-2">Dr. Komal Pandya</h3>
-    <p class="text-muted mb-3">Specializing in Quantum Annealing, QAOA Variants, Hypergraph Matching, & Online Algorithms.</p>
+    <p class="text-muted mb-3">Specializing in Quantum Optimization, Online Algorithms & Theoretical Computer Science.</p>
     <div class="d-flex flex-wrap gap-2">
       <span class="badge bg-secondary">IIT Patna</span>
       <span class="badge bg-secondary">Quantum Computing</span>
