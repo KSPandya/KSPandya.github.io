@@ -79,8 +79,8 @@ cv:
         authors:
           - K. Pandya
           - S. Sakhuja
-          - N. Kattian
-        publisher: "Under Prep"
+          - N. Kattaian
+        publisher: "Preprint"
         releaseDate: 2026
 
       - title: "Benchmarking the Three-Dimensional and the Numerical Three-Dimensional Matching Problems on the D-Wave Advantage Quantum Annealer"
@@ -102,7 +102,7 @@ cv:
         publisher: "Physics Reports"
         releaseDate: 2024
 
-      - title: "Randomized #-RANKING Algorithm for Online Trichromatic Matching"
+      - title: "Randomized ε-RANKING Algorithm for Online Trichromatic Matching"
         authors:
           - K. Pandya
           - A. Maiti
