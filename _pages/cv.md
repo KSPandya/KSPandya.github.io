@@ -130,13 +130,13 @@ nav_order: 5
     <div class="col-md-6 mb-3">
       <div class="p-3 border-0 border-start border-4 border-primary bg-light shadow-sm h-100 rounded-end">
         <h6 class="font-weight-bold text-primary mb-2"><i class="fa-solid fa-brain me-2"></i> Foundations</h6>
-        <p class="small text-muted mb-0">Deterministic & Randomized Algorithm Design, Competitive Analysis, Optimal Strategy Formulation, Mathematical Modeling, and Computational Complexity.</p>
+        <p class="small text-muted mb-0">Deterministic & Randomized Algorithm Design, Competitive Analysis, Optimal Strategy Formulation, Quantum & Classical Optimization, Hybrid Quantum-Classical Computation, Mathematical Modeling, and Computational Simulations.</p>
       </div>
     </div>
     <div class="col-md-6 mb-3">
       <div class="p-3 border-0 border-start border-4 border-info bg-light shadow-sm h-100 rounded-end">
         <h6 class="font-weight-bold text-info mb-2"><i class="fa-solid fa-rocket me-2"></i> Applications</h6>
-        <p class="small text-muted mb-0">Multi-Objective Optimization, Trajectory Optimization, Space Debris Removal, Satellite Constellation Management, and Large-Scale Scheduling.</p>
+        <p class="small text-muted mb-0">Multi-Objective Optimization, Trajectory Optimization, Space Debris Removal, Satellite Constellation Management, and Large-Scale Complex Scheduling Problems.</p>
       </div>
     </div>
   </div>
