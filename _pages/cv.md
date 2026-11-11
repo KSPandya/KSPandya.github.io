@@ -150,7 +150,8 @@ nav_order: 5
       <h5 class="font-weight-bold mb-1">Ph.D. in Computer Science</h5>
       <p class="text-muted small mb-2">Indian Institute of Technology Patna | Sep 2020 – Sep 2026</p>
       <p class="small mb-1"><strong>Focus:</strong> Quantum Optimization & Online Algorithms</p>
-      <p class="small text-secondary mb-0">Advised by Dr. Abyayananda Maiti. Thesis: <em>Higher-Order Matching in 3-Partite, 3-Uniform Hypergraphs: Classical Online Algorithms & Quantum Optimization</em>.</p>
+      <p class="small text-secondary mb-0">Advised by Dr. Abyayananda Maiti.</p> 
+      <p class="small mb-1"><strong>Thesis: </strong><em>Higher-Order Matching in 3-Partite, 3-Uniform Hypergraphs: Classical Online Algorithms & Quantum Optimization</em>.</p>
     </div>
 
     <div class="timeline-item">
