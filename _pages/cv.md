@@ -121,11 +121,6 @@ nav_order: 5
   <div class="cv-header-card shadow-sm">
     <h3 class="font-weight-bold mb-2">Dr. Komal Pandya</h3>
     <p class="text-muted mb-3">Specializing in Quantum Optimization, Online Algorithms & Theoretical Computer Science.</p>
-    <div class="d-flex flex-wrap gap-2">
-      <span class="badge bg-secondary">IIT Patna</span>
-      <span class="badge bg-secondary">Quantum Computing</span>
-      <span class="badge bg-secondary">Theoretical CS</span>
-    </div>
   </div>
 
   <!-- RESEARCH INTERESTS -->
