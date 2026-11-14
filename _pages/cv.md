@@ -321,7 +321,7 @@ nav_order: 5
 
     <div class="timeline-item">
       <h5 class="font-weight-bold mb-1">Symposium Celebrating the Quantum Century (SCQC 2025)</h5>
-      <p class="text-muted small mb-2">Bengaluru | October 2025 <span class="badge bg-info text-dark ms-1" style="font-size: 0.65rem;">On-site</span>[cite: 1]</p>
+      <p class="text-muted small mb-2">Bengaluru | October 2025 <span class="badge bg-info text-dark ms-1" style="font-size: 0.65rem;">On-site</span></p>
       <p class="small text-secondary mb-0">Presented research talk ("Quantum-Integrated Systems for Space Warfare: ISR, C2, and Adaptive Engagement") and poster ("Multi-Target Space Debris Optimization using Gaussian Boson Sampling").</p>
     </div>
 
