@@ -119,8 +119,8 @@ nav_order: 5
 
   <!-- Hero Header Card -->
   <div class="cv-header-card shadow-sm">
-    <h3 class="font-weight-bold mb-2">Dr. Komal Pandya[cite: 1]</h3>
-    <p class="text-muted mb-3">Specializing in Quantum Optimization, Online Algorithms & Theoretical Computer Science[cite: 1].</p>
+    <h3 class="font-weight-bold mb-2">Dr. Komal Pandya</h3>
+    <p class="text-muted mb-3">Specializing in Quantum Optimization, Online Algorithms & Theoretical Computer Science.</p>
   </div>
 
   <!-- RESEARCH INTERESTS -->
@@ -147,17 +147,17 @@ nav_order: 5
     <div class="cv-section-title"><i class="fa-solid fa-graduation-cap"></i> Education</div>
     
     <div class="timeline-item">
-      <h5 class="font-weight-bold mb-1">Ph.D. in Computer Science[cite: 1]</h5>
-      <p class="text-muted small mb-2">Indian Institute of Technology Patna | Sep 2020 – Sep 2026 <span class="badge bg-success text-white ms-1" style="font-size: 0.65rem;">Defended: Sep 9, 2026</span>[cite: 1]</p>
-      <p class="small mb-1"><strong>Focus:</strong> Quantum Optimization & Online Algorithms[cite: 1]</p>
+      <h5 class="font-weight-bold mb-1">Ph.D. in Computer Science</h5>
+      <p class="text-muted small mb-2">Indian Institute of Technology Patna | Sep 2020 – Sep 2026 <span class="badge bg-success text-white ms-1" style="font-size: 0.65rem;">Defended: Sep 9, 2026</span></p>
+      <p class="small mb-1"><strong>Focus:</strong> Quantum Optimization & Online Algorithms</p>
       <p class="small text-secondary mb-0">Advised by Dr. Abyayananda Maiti.</p> 
-      <p class="small mb-1"><strong>Thesis: </strong><em>Higher-Order Matching in 3-Partite, 3-Uniform Hypergraphs: Classical Online Algorithms & Quantum Optimization</em>[cite: 1].</p>
+      <p class="small mb-1"><strong>Thesis: </strong><em>Higher-Order Matching in 3-Partite, 3-Uniform Hypergraphs: Classical Online Algorithms & Quantum Optimization</em>.</p>
     </div>
 
     <div class="timeline-item">
-      <h5 class="font-weight-bold mb-1">B.E. in Computer Engineering[cite: 1]</h5>
-      <p class="text-muted small mb-2">Government Engineering College Gandhinagar | 2015 – 2019[cite: 1]</p>
-      <p class="small text-secondary mb-0">Project: Aspect-Based Sentiment Analysis[cite: 1].</p>
+      <h5 class="font-weight-bold mb-1">B.E. in Computer Engineering</h5>
+      <p class="text-muted small mb-2">Government Engineering College Gandhinagar | 2015 – 2019</p>
+      <p class="small text-secondary mb-0">Project: Aspect-Based Sentiment Analysis.</p>
     </div>
   </div>
 
@@ -167,32 +167,32 @@ nav_order: 5
     
     <div class="timeline-item">
       <h5 class="font-weight-bold mb-1">Quantum Research Mentee</h5>
-      <p class="text-muted small mb-2">Quantum Open Source Foundation (QOSF) | Apr 2022 – Mar 2024 (Remote)[cite: 1]</p>
-      <p class="small text-secondary mb-0">Benchmarked QAOA performance and validated algorithmic scalability across diverse combinatorial problem sets, analyzing the impact of problem size and circuit parameters on solution quality[cite: 1].</p>
+      <p class="text-muted small mb-2">Quantum Open Source Foundation (QOSF) | Apr 2022 – Mar 2024 (Remote)</p>
+      <p class="small text-secondary mb-0">Benchmarked QAOA performance and validated algorithmic scalability across diverse combinatorial problem sets, analyzing the impact of problem size and circuit parameters on solution quality.</p>
     </div>
 
     <div class="timeline-item">
       <h5 class="font-weight-bold mb-1">IIT Patna PhD Project Fellow</h5>
-      <p class="text-muted small mb-2">MHRD, MHA, Govt. of India | Sep 2020 – Aug 2023 (On-Site)[cite: 1]</p>
-      <p class="small text-secondary mb-0">Developed a web-portal to spread digital awareness for Cyber-Crime Prevention against Women & Children (CCPWC), supporting digital safety and public awareness initiatives[cite: 1].</p>
+      <p class="text-muted small mb-2">MHRD, MHA, Govt. of India | Sep 2020 – Aug 2023 (On-Site)</p>
+      <p class="small text-secondary mb-0">Developed a web-portal to spread digital awareness for Cyber-Crime Prevention against Women & Children (CCPWC), supporting digital safety and public awareness initiatives.</p>
     </div>
 
     <div class="timeline-item">
       <h5 class="font-weight-bold mb-1">Quantum Computing Intern</h5>
-      <p class="text-muted small mb-2">Artificial Brain | Jan 2022 – Apr 2022 (Remote)[cite: 1]</p>
-      <p class="small text-secondary mb-0">Formulated and executed a Quadratic Unconstrained Binary Optimization (QUBO) model for flight trajectory optimization (Deloitte Quantum Climate Challenge 2022), exploring quantum optimization for constrained trajectory planning[cite: 1].</p>
+      <p class="text-muted small mb-2">Artificial Brain | Jan 2022 – Apr 2022 (Remote)</p>
+      <p class="small text-secondary mb-0">Formulated and executed a Quadratic Unconstrained Binary Optimization (QUBO) model for flight trajectory optimization (Deloitte Quantum Climate Challenge 2022), exploring quantum optimization for constrained trajectory planning.</p>
     </div>
 
     <div class="timeline-item">
       <h5 class="font-weight-bold mb-1">Quantum Computing Intern (QIntern)</h5>
-      <p class="text-muted small mb-2">QWorld | Jul 2021 – Aug 2021 (Remote)[cite: 1]</p>
-      <p class="small text-secondary mb-0">Formulated a QAOA approach for particle tracking in high-energy physics simulations, mapping particle-tracking constraints into a quantum optimization framework[cite: 1].</p>
+      <p class="text-muted small mb-2">QWorld | Jul 2021 – Aug 2021 (Remote)</p>
+      <p class="small text-secondary mb-0">Formulated a QAOA approach for particle tracking in high-energy physics simulations, mapping particle-tracking constraints into a quantum optimization framework.</p>
     </div>
 
     <div class="timeline-item">
       <h5 class="font-weight-bold mb-1">Machine Learning Intern</h5>
-      <p class="text-muted small mb-2">EISystems | Jul 2018 – Aug 2018 (Bengaluru, India)[cite: 1]</p>
-      <p class="small text-secondary mb-0">Optimized multi-modal ML model performance through systematic hyperparameter tuning and feature extraction, improving predictive performance across multimodal data[cite: 1].</p>
+      <p class="text-muted small mb-2">EISystems | Jul 2018 – Aug 2018 (Bengaluru, India)</p>
+      <p class="small text-secondary mb-0">Optimized multi-modal ML model performance through systematic hyperparameter tuning and feature extraction, improving predictive performance across multimodal data.</p>
     </div>
   </div>
 
@@ -203,38 +203,38 @@ nav_order: 5
     <div class="pub-item">
       <p class="small mb-1">K. Pandya, S. Sakhuja, N. Kattaian. <br><strong>"A Topology-Aware Quantum-Classical Framework for Multi-Target Active Debris Removal using Gaussian Boson Sampling."</strong></p>
       <a href="https://doi.org/10.48550/arXiv.2610.31824" target="_blank" class="badge bg-light text-dark border text-decoration-none">
-        <i class="fa-solid fa-file-pdf me-1"></i> arXiv:2610.31824 (2026)[cite: 1]
+        <i class="fa-solid fa-file-pdf me-1"></i> arXiv:2610.31824 (2026)
       </a>
     </div>
 
     <div class="pub-item">
       <p class="small mb-1">K. Pandya, A. Maiti. <br><strong>"Benchmarking the Three-Dimensional and the Numerical Three-Dimensional Matching Problems on the D-Wave Advantage Quantum Annealer."</strong></p>
-      <span class="badge bg-light text-dark border">Information Sciences, 2025[cite: 1]</span>
+      <span class="badge bg-light text-dark border">Information Sciences, 2025</span>
     </div>
 
     <div class="pub-item">
       <p class="small mb-1">K. Blekos, D. Brand, A. Ceschini, CH. Chou, RH. Li, K. Pandya, A. Summer. <br><strong>"A review on quantum approximate optimization algorithm and its variants."</strong></p>
-      <span class="badge bg-light text-dark border">Physics Reports, 1068, 1–66, 2024[cite: 1]</span>
+      <span class="badge bg-light text-dark border">Physics Reports, 1068, 1–66, 2024</span>
     </div>
 
     <div class="pub-item">
       <p class="small mb-1">K. Pandya, A. Maiti. <br><strong>"Randomized Ranking Algorithm for Online Trichromatic Matching."</strong></p>
-      <span class="badge bg-light text-dark border">IEEE Access, 2024[cite: 1]</span>
+      <span class="badge bg-light text-dark border">IEEE Access, 2024</span>
     </div>
 
     <div class="pub-item">
       <p class="small mb-1">K. Pandya, A. Maiti. <br><strong>"Unweighted Online Matching in k-Regular 3-Partite 3-Uniform Hypergraphs."</strong></p>
-      <span class="badge bg-light text-secondary border">Communicated, 2025[cite: 1]</span>
+      <span class="badge bg-light text-secondary border">Communicated, 2025</span>
     </div>
 
     <div class="pub-item">
       <p class="small mb-1">K. Pandya, A. Maiti. <br><strong>"Edge-Weighted Online Matching in 3-Partite Hypergraphs under Vertex Arrivals."</strong></p>
-      <span class="badge bg-light text-secondary border">Communicated, 2025[cite: 1]</span>
+      <span class="badge bg-light text-secondary border">Communicated, 2025</span>
     </div>
 
     <div class="pub-item">
       <p class="small mb-1">K. Pandya. <br><strong>"Quantum Query Bounds with a Simple Unified Framework for Online Bipartite Matching."</strong></p>
-      <span class="badge bg-light text-secondary border">Under Prep, 2026[cite: 1]</span>
+      <span class="badge bg-light text-secondary border">Under Prep, 2026</span>
     </div>
   </div>
 
@@ -245,31 +245,31 @@ nav_order: 5
       <div class="col-md-6 mb-3">
         <div class="p-3 border rounded bg-light shadow-sm h-100">
           <strong class="d-block text-dark">MHRD PhD Project Fellowship</strong>
-          <small class="text-muted">IIT Patna (2020–2023)[cite: 1]</small>
+          <small class="text-muted">IIT Patna (2020–2023)</small>
         </div>
       </div>
       <div class="col-md-6 mb-3">
         <div class="p-3 border rounded bg-light shadow-sm h-100">
           <strong class="d-block text-dark">Research Grant Awardee</strong>
-          <small class="text-muted">Quantum Neural Technologies, SA (2024)[cite: 1]</small>
+          <small class="text-muted">Quantum Neural Technologies, SA (2024)</small>
         </div>
       </div>
       <div class="col-md-6 mb-3">
         <div class="p-3 border rounded bg-light shadow-sm h-100">
           <strong class="d-block text-dark">Quantum Open Source Foundation Cohort</strong>
-          <small class="text-muted">Research Mentee (2022–2024)[cite: 1]</small>
+          <small class="text-muted">Research Mentee (2022–2024)</small>
         </div>
       </div>
       <div class="col-md-6 mb-3">
         <div class="p-3 border rounded bg-light shadow-sm h-100">
           <strong class="d-block text-dark">Travel Grant Awardee</strong>
-          <small class="text-muted">IndoML 2023, IIT Bombay[cite: 1]</small>
+          <small class="text-muted">IndoML 2023, IIT Bombay</small>
         </div>
       </div>
       <div class="col-md-6 mb-3">
         <div class="p-3 border rounded bg-light shadow-sm h-100">
           <strong class="d-block text-dark">Travel Grant Awardee</strong>
-          <small class="text-muted">The CCPWC Projects Final Demonstration, New Delhi (2022)[cite: 1]</small>
+          <small class="text-muted">The CCPWC Projects Final Demonstration, New Delhi (2022)</small>
         </div>
       </div>
     </div>
@@ -281,14 +281,14 @@ nav_order: 5
     
     <div class="timeline-item">
       <h5 class="font-weight-bold mb-1">Graduate Teaching Assistant</h5>
-      <p class="text-muted small mb-2">Department of Computer Science and Engineering, IIT Patna[cite: 1]</p>
-      <p class="small text-secondary mb-0">Assisted with Theory of Computation, Foundations of Theoretical Computer Science, Linear Algebra, Computing Lab, and Algorithms[cite: 1].</p>
+      <p class="text-muted small mb-2">Department of Computer Science and Engineering, IIT Patna</p>
+      <p class="small text-secondary mb-0">Assisted with Theory of Computation, Foundations of Theoretical Computer Science, Linear Algebra, Computing Lab, and Algorithms.</p>
     </div>
 
     <div class="timeline-item">
       <h5 class="font-weight-bold mb-1">Research Mentorship</h5>
-      <p class="text-muted small mb-2">IIT Patna[cite: 1]</p>
-      <p class="small text-secondary mb-0">Co-advised 3+ undergraduate researchers on hypergraph algorithm implementations and quantum simulation pipelines[cite: 1].</p>
+      <p class="text-muted small mb-2">IIT Patna</p>
+      <p class="small text-secondary mb-0">Co-advised 3+ undergraduate researchers on hypergraph algorithm implementations and quantum simulation pipelines.</p>
     </div>
   </div>
 
@@ -322,7 +322,7 @@ nav_order: 5
     <div class="timeline-item">
       <h5 class="font-weight-bold mb-1">Symposium Celebrating the Quantum Century (SCQC 2025)</h5>
       <p class="text-muted small mb-2">Bengaluru | October 2025 <span class="badge bg-info text-dark ms-1" style="font-size: 0.65rem;">On-site</span>[cite: 1]</p>
-      <p class="small text-secondary mb-0">Presented research talk ("Quantum-Integrated Systems for Space Warfare: ISR, C2, and Adaptive Engagement") and poster ("Multi-Target Space Debris Optimization using Gaussian Boson Sampling")[cite: 1].</p>
+      <p class="small text-secondary mb-0">Presented research talk ("Quantum-Integrated Systems for Space Warfare: ISR, C2, and Adaptive Engagement") and poster ("Multi-Target Space Debris Optimization using Gaussian Boson Sampling").</p>
     </div>
 
     <div class="timeline-item">
