@@ -4,7 +4,6 @@ title: Quantum Computation and Quantum Information
 author: Michael A. Nielsen and Isaac L. Chuang
 cover: assets/img/book_covers/nielsen.jpg
 isbn: 1107002176
-categories: quantum-information physics textbooks reference
 tags: quantum bible standard
 buy_link: https://www.amazon.com/Quantum-Computation-Information-10th-Anniversary/dp/1107002176/
 date: 2024-08-23
