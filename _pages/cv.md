@@ -355,21 +355,44 @@ nav_order: 5
     <div class="cv-section-title"><i class="fa-solid fa-certificate"></i> Certificates & Achievements</div>
     
     <div class="timeline-item">
-      <h5 class="font-weight-bold mb-1">IBM Quantum Challenge - Fall 2021 (Advanced)</h5>
-      <p class="text-muted small mb-2">IBM Quantum | Issued Nov 9, 2021</p>
-      <p class="small text-secondary mb-0">Successfully tackled advanced circuit implementation and optimization problem sets on IBM quantum hardware.</p>
+      <h5 class="font-weight-bold mb-1">Womanium Global Quantum Program 2023 Modules</h5>
+      <p class="text-muted small mb-2">Womanium Foundation | 2023</p>
+      <p class="small text-secondary mb-2">Completed specialized global training tracks spanning hardware architectures, software frameworks, neutral-atom programming, and quantum sensing applications.</p>
+      <div class="d-flex flex-wrap gap-3">
+        <a href="https://workdrive.zoho.in/file/i6q7k2dca6a9e935f4eed845b4e8218797239" target="_blank" class="small text-primary text-decoration-none font-weight-bold"><i class="fa-solid fa-award me-1"></i> Global Quantum Scholarship</a>
+        <a href="https://workdrive.zoho.in/file/i6q7ke7562fb27a7a4c998315967ef5258aa6" target="_blank" class="small text-primary text-decoration-none font-weight-bold"><i class="fa-solid fa-microchip me-1"></i> Quantum Hardware Certificate</a>
+        <a href="https://workdrive.zoho.in/file/i6q7ke779881c51c946179581e0dae7bf1182" target="_blank" class="small text-primary text-decoration-none font-weight-bold"><i class="fa-solid fa-code me-1"></i> Quantum Software Certificate</a>
+        <a href="https://workdrive.zoho.in/file/i6q7k3fd87c7ecb1940aaa69d80eba565637e" target="_blank" class="small text-primary text-decoration-none font-weight-bold"><i class="fa-solid fa-atom me-1"></i> QuEra Neutral-Atom Programming</a>
+        <a href="https://workdrive.zoho.in/file/i6q7k75773b642b464464a8a4507ef3a55125" target="_blank" class="small text-primary text-decoration-none font-weight-bold"><i class="fa-solid fa-gauge-high me-1"></i> Quantum Sensing Certificate</a>
+      </div>
     </div>
 
     <div class="timeline-item">
-      <h5 class="font-weight-bold mb-1">IBM Quantum Challenge Africa 2021 Achievement</h5>
-      <p class="text-muted small mb-2">IBM Quantum | Issued Sep 29, 2021</p>
-      <p class="small text-secondary mb-0">Completed regional quantum programming challenges and computational workflows.</p>
+      <h5 class="font-weight-bold mb-1">IBM Quantum Challenges & Digital Credentials</h5>
+      <p class="text-muted small mb-2">IBM Quantum | 2021</p>
+      <p class="small text-secondary mb-2">Completed advanced circuit implementation and optimization workflows for <strong>IBM Quantum Challenge - Fall 2021 (Advanced)</strong> and <strong>IBM Quantum Challenge Africa 2021</strong>.</p>
+      <a href="https://www.credly.com/users/komal-pandya.1ae68c58/badges/credly" target="_blank" class="small text-primary text-decoration-none font-weight-bold"><i class="fa-solid fa-arrow-up-right-from-square me-1"></i> View Verified Credly Badges</a>
     </div>
 
     <div class="timeline-item">
-      <h5 class="font-weight-bold mb-1">QWorld Quantum Educational Certifications</h5>
+      <h5 class="font-weight-bold mb-1">QWorld Quantum Educational Diplomas</h5>
       <p class="text-muted small mb-2">QWorld | 2021 – 2023</p>
-      <p class="small text-secondary mb-0">Earned foundational and advanced badges: <strong>QBronze</strong> (Intro to Quantum Computing), <strong>QSilver</strong> (Quantum Programming), <strong>QNickel</strong> (Quantum Mystery), and <strong>QMercury</strong>.</p>
+      <p class="small text-secondary mb-2">Earned specialized diplomas covering quantum communication, cryptography, and error correction:</p>
+      <div class="d-flex flex-wrap gap-3">
+        <a href="https://workdrive.zoho.in/file/i6q7k5978e2eaa41d4e25a6e637a79b910865" target="_blank" class="small text-primary text-decoration-none font-weight-bold"><i class="fa-solid fa-certificate me-1"></i> QMercury (Quantum Key Distribution)</a>
+        <a href="https://workdrive.zoho.in/file/i6q7ka3176d513e98433fb366c904792a120a" target="_blank" class="small text-primary text-decoration-none font-weight-bold"><i class="fa-solid fa-certificate me-1"></i> QNickel (Quantum Computing & Programming)</a>
+        <a href="https://workdrive.zoho.in/file/i6q7k65f5dbbb727048b1b131f74232e35dbd" target="_blank" class="small text-primary text-decoration-none font-weight-bold"><i class="fa-solid fa-certificate me-1"></i> QZinc (Quantum Error Correction & Stabilizer Codes)</a>
+      </div>
+    </div>
+
+    <div class="timeline-item">
+      <h5 class="font-weight-bold mb-1">The EigenSolvers Quantum School & TEQS Hackathon</h5>
+      <p class="text-muted small mb-2">ISTE NIT Calicut Students' Chapter | July 2021</p>
+      <p class="small text-secondary mb-2">Completed the intensive quantum school and achieved intermediate-tier recognition in the TEQS Hackathon.</p>
+      <div class="d-flex flex-wrap gap-3">
+        <a href="https://workdrive.zoho.in/file/i6q7k880b73eb216643b4b1f0d5b69ac25e87" target="_blank" class="small text-primary text-decoration-none font-weight-bold"><i class="fa-solid fa-trophy me-1"></i> TEQS Hackathon Certificate</a>
+        <a href="https://workdrive.zoho.in/file/i6q7k6f14f4115d68418caf1a45ae71c31db7" target="_blank" class="small text-primary text-decoration-none font-weight-bold"><i class="fa-solid fa-certificate me-1"></i> Quantum School Certificate</a>
+      </div>
     </div>
   </div>
 
