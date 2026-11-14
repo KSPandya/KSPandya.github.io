@@ -4,7 +4,6 @@ title: Quantum Computing for Computer Scientists
 author: Noson S. Yanofsky and Mirco A. Mannucci
 cover: assets/img/book_covers/for comp sci.jpg
 isbn: 0521879965
-categories: quantum-computing computer-science mathematics textbooks
 tags: quantum books cs
 buy_link: https://www.amazon.com/Quantum-Computing-Computer-Scientists-Yanofsky/dp/0521879965/
 date: 2024-08-23
