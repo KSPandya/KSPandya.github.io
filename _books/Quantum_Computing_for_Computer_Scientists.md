@@ -9,7 +9,6 @@ buy_link: https://www.amazon.com/Quantum-Computing-Computer-Scientists-Yanofsky/
 date: 2024-08-23
 released: 2008
 stars: 5
-status: Finished
 ---
 
 Tailored specifically for programmers and computer scientists, this book approaches quantum mechanics through the lens of linear algebra and computational complexity. Noson S. Yanofsky and Mirco A. Mannucci successfully translate quantum gates, circuits, and algorithms into familiar computer science paradigms. 
