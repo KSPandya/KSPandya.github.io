@@ -4,7 +4,6 @@ title: "Online Algorithms: The State of the Art"
 author: Amos Fiat and Gerhard J. Woeginger (Eds.)
 cover: assets/img/book_covers/fiat.jpg
 isbn: 3540649174
-categories: online-algorithms lecture-notes computer-science advanced
 tags: online-algorithms lncs state-of-the-art
 buy_link: https://www.amazon.com/Online-Algorithms-Lecture-Computer-Science/dp/3540649174/
 date: 2024-08-23
