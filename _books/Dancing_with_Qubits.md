@@ -4,7 +4,6 @@ title: Dancing with Qubits
 author: Robert S. Sutor
 cover: assets/img/book_covers/dancing.jpg
 isbn: 1837636753
-categories: quantum-computing technology physics mathematics
 tags: quantum books advanced
 buy_link: https://www.amazon.com/Dancing-Qubits-quantum-computing-change/dp/1837636753/
 date: 2024-08-23
