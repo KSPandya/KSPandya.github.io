@@ -4,7 +4,6 @@ title: Online Algorithms
 author: Rahul Vaze
 cover: assets/img/book_covers/onl algo.jpg
 isbn: 100934918X
-categories: online-algorithms decision-making optimization textbooks
 tags: online-algorithms modern-applications
 buy_link: https://www.amazon.com/Online-Algorithms-Rahul-Vaze/dp/100934918X/
 date: 2024-08-23
