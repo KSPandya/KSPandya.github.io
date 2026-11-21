@@ -233,8 +233,7 @@ nav_order: 5
     </div>
 
     <div class="pub-item">
-      <p class="small mb-1">K. Pandya. <br><strong>"Quantum Query Bounds with a Simple Unified Framework for Online Bipartite Matching."</strong></p>
-      <span class="badge bg-light text-secondary border">Under Prep, 2026</span>
+      <p class="small mb-1">K. Pandya. <br><strong>"Quantum-Enhanced RSO Collision Probability Estimation: Improved Query Complexity Bounds">In Preparation, 2026</span>
     </div>
   </div>
 
